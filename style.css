@@ -1,0 +1,28 @@
+body{
+  font-family: Arial,"Times New Roman";
+  font-size: 14px;
+}
+.input-form {
+  width: 40%;
+  min-width: 300px;
+  text-align: center;
+  background-color: #777;
+  padding: 25px 15px;
+  border: 1px solid #222223;
+  border-radius: 7px 0px 7px 0px;
+}
+
+.input-form input,
+.input-form textarea,
+.input-form button {
+  width: 90%;
+  padding: 5px 10px;
+  margin: 10px 5px;
+  border-radius: 4px;
+  font-family: Arial,"Times New Roman";
+  font-size: 14px;
+}
+
+.input-form button {
+  text-align: center;
+}
